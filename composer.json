@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Magebuzz_Free_Testimonial",
+    "name": "OpenMageModuleFostering\/Magebuzz_Free_Testimonial",
     "type": "magento-module",
     "license": "Open-Software-License",
     "homepage": "",
     "description": "Allow customer to submit testimonial for your store.",
     "authors": [
-    {
-        "name": "Magebuzz",
-        "email": "magebuzz@gmail.com"
-    }
-],
+        {
+            "name": "Magebuzz",
+            "email": "magebuzz@gmail.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
