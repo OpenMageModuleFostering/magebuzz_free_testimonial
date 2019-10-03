@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/Magebuzz_Free_Testimonial",
+    "name": "openmage-module-fostering\/magebuzz_free_testimonial",
     "type": "magento-module",
-    "license": "Open-Software-License",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Allow customer to submit testimonial for your store.",
     "authors": [
